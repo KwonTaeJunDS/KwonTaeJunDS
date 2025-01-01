@@ -17,6 +17,11 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ktjktj0629@naver.com)
 
 
+🛠 Tech Stack 🛠
+-
+
+
+
 <!--
 **KwonTaeJunDS/KwonTaeJunDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
