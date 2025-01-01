@@ -12,7 +12,8 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 ✨ Profile ✨
 -
-+ <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
++ <!-- Naver Blog -->
+[![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/kwon_tae_jun)
 
 
 <!--
