@@ -10,6 +10,10 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktjmamamoo&theme=dark)](https://solved.ac/ktjmamamoo)
 
+✨ Profile ✨
+-
++ <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
 
 <!--
 **KwonTaeJunDS/KwonTaeJunDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
