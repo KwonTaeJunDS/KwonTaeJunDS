@@ -20,7 +20,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 🛠 Tech Stack 🛠
 -
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pythorch](https://img.shields.io/badge/Pytorh-3776AB?style=flat-square&logo=pytorchn&logoColor=white)
 
 
 
