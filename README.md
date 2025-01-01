@@ -16,7 +16,8 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/kwon_tae_jun) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)]([velog주소](https://velog.io/@ktjktj0629)) [![Tech Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)]([기술블로그주소](https://github.com/KwonTaeJunDS)) 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ktjktj0629@naver.com)
 
-<br>
+<!-- space -->
+<!-- space -->
 🛠 Tech Stack 🛠
 -
 
