@@ -1,15 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=soft&                    
-height=300&                    
-color=gradient&                
-text=Welcome%20to-nl-TaeJun's%20Github&  
-textBg=false&                 
-fontAlign=50&                  
-animation=fadeIn&            
-descAlign=74&                
-descAlignY=55&              
-strokeWidth=3                 
-)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=120&color=#070B19&text=Welcome%20to-nl-TaeJun's%20Github&textBg=false&fontAlign=50&animation=fadeIn&descAlign=74&descAlignY=55&strokeWidth=3)
 -
 Hello, I'm TaeJun Kwon.
 
