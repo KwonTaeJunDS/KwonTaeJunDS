@@ -45,10 +45,13 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 | Period | Company | Position 
 |:---:|:---:|:---:|
 |2024.03 - Present|Kyungpook National University|Research Assistant (Advisor: Saekwang Nam)| 
-|2024.10 - 2024.11|ITCOBOT Inc.|Interen|
-|2024.07 - 2024.07|TEFA Robotics Inc.|Interen|
+|2024.10 - 2024.11|ITCOBOT Inc.|Intern|
+|2024.07 - 2024.07|TEFA Robotics Inc.|Intern|
 
+&nbsp;&nbsp;
 
+📜 Published Paper 📜
+-
 
 
 
