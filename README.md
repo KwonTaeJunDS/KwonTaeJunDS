@@ -35,6 +35,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Period | Institution | Major |
 |:---|:---:|---:|
+|2024.03 - Present|Kyungpook National University|Master's Degree in Data Science|
 
 
 
