@@ -54,7 +54,17 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Date | Paper Title | Publication <br> venue | Key Word | Link
 |:---:|:---:|:---:|:---:|:---:|
-|2024.12|Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations| The Korean Institute of Communications and Information Sciences (KICS) | Bigdata, Mobility, Machine Learning | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
+|2024.12|Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations| The Korean Institute of Communications and Information Sciences (KICS) | Bigdata, Mobility, Machine Learning, Haptic | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
+|2024.08 | Vision-based Tactile Sensor for Haptics | Korea Haptics Conference | Tactile Sensors, Robot Hands, Convolutional Neural Network, Object Manipulation| [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
+
+&nbsp;&nbsp;
+
+🔍 Research 🔍
+-
+| Date | Theme | Achievement | Link
+|:---:|:---:|:---:|:---:|
+
+
 
 
 
