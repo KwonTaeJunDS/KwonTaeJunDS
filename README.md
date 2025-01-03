@@ -54,7 +54,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Date | Paper Title | Publication <br> venue | Key Word | Link
 |:---:|:---:|:---:|:---:|:---:|
-|2024.12|Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations| The Korean Institute of Communications and Information Sciences (KICS) | Bigdata, AI, Mobility, Machine Learning | [Link](file:///C:/Users/%EA%B6%8C%ED%83%9C%EC%A4%80/Downloads/0529-UAHJK.pdf) |
+|2024.12|Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations| The Korean Institute of Communications and Information Sciences (KICS) | Bigdata, Mobility, Machine Learning | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
 
 
 
