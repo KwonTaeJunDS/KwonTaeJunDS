@@ -93,6 +93,10 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Date | Name | Institution 
 |:---:|:---:|:---:|
+2024 | 빅데이터분석기사 | 한국데이터산업진흥원 |
+2024 | Toeic Speaking - IH | 한국 TOEIC 위원회 |
+2023 | 상공회의소 한자 3급 | 대한상공회의소 |
+2023 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 |
 
 
 
