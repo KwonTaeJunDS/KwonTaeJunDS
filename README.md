@@ -75,7 +75,6 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 &nbsp;&nbsp;
 
 🏆 Contest 🏆
-
 -
 | Date | Institution | Contest Name | Award
 |:---:|:---:|:---:|:---:|
