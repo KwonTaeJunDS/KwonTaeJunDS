@@ -79,6 +79,21 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Date | Institution | Contest Name | Award
 |:---:|:---:|:---:|:---:|
+2024.11 | 나노기술연구협의회 | 나노영챌린지 2024 | 우수상 |
+2024.09 | 대학ICT연구센터 | ICT챌린지 2024 | 참가 |
+2024.09 | DACON | 2024 Samsung AI Challenge : Black-box Optimization | Top 20%
+2024.08 | 한국햅틱스학회 | 현대자동차 햅틱스 아이디어 경진대회 | 최고 인기상 |
+2024.07 | 산업통상자원부 | 산업통상자원부 공공데이터 활용 아이디어 공모전 | 참가 |
+2024.05 | 광진구 | 2024년 광진구 빅데이터 분석 공모전 | 참가 |
+2023.09 | 포스코인재창조원 | 포스코 AI, BigData아카데미 | 프로젝트 우수상 |
+
+&nbsp;&nbsp;
+
+📃 Certificate & Language 📃
+-
+| Date | Name | Institution 
+|:---:|:---:|:---:|
+
 
 
 
