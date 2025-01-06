@@ -59,14 +59,14 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 -
 | Date | Organization | Program | Description
 |:---:|:---:|:---:|:---:|
-| 2024.11 - 2024.11 | 한국로봇융합연구원 | 협동로봇 기초 교육 | [Link] |
-| 2024.05 - 2024.11 | 국가과학기술인력개발원 | 서포터즈 | [Link] |
-| 2024.07 - 2024.07 | 한국로봇학회 |  AI & Robotics Summer School 2024 | [Link] |
+| 2024.11 - 2024.11 | KOREA INSTITUTE OF ROBOTICS & TECHNOLOGY CONVERGENCE | 협동로봇 기초 교육 | [Link] |
+| 2024.05 - 2024.11 | KIRD(국가과학기술인력개발원) | 서포터즈 | [Link] |
+| 2024.07 - 2024.07 |  Korea Robotics Society |  AI & Robotics Summer School 2024 | [Link] |
 | 2024.04 - 2024.05 | MetaCode | 서포터즈 | [Link] |
-| 2023.07 - 2023.09 | 포스코 | 청년 AI, BigData 아카데미 | [Link] |
-| 2023.05 - 2023.06 | 대구 AI허브 | 제조 + AI 실무 프로젝트 | [Link] |
-| 2023.04 - 2023.05 | 원스펙 | 엑셀로 쉽게 배우는 반도체 데이터 분석 | [Link] |
-| 2023.01 - 2023.03 | 렛유인 | 반도체 강의 | [Link] |
+| 2023.07 - 2023.09 | POSCO | 청년 AI, BigData 아카데미 | [Link] |
+| 2023.05 - 2023.06 | 대구 AI HUB | 제조 + AI 실무 프로젝트 | [Link] |
+| 2023.04 - 2023.05 | Winspec | 엑셀로 쉽게 배우는 반도체 데이터 분석 | [Link] |
+| 2023.01 - 2023.03 | Letuin | 반도체 강의 | [Link] |
 | 2022.12 - 2022.12 | Semiconductor Process Technology Academy Inc. | 패터닝 공정실습 | [Link] |
 
 
