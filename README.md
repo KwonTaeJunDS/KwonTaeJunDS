@@ -38,7 +38,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 🏫 Education 🏫
 -
-| Period | Institution | Major |
+| Date | Institution | Major |
 |:---:|:---:|:---:|
 |2024.03 - Present|Kyungpook National University|Master's Degree in Data Science|
 |2021.03 - 2023.08|Kyungpook National University|Bachelor's Degree in Electronic Engineering|
@@ -47,11 +47,19 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 💼 Career Experience 💼
 -
-| Period | Company | Position 
+| Date | Company | Position 
 |:---:|:---:|:---:|
 |2024.03 - Present|Kyungpook National University|Research Assistant (Advisor: Saekwang Nam)| 
 |2024.10 - 2024.11|ITCOBOT Inc.|Intern|
 |2024.06 - 2024.07|TEFA Robotics Inc.|Intern|
+
+&nbsp;&nbsp;
+
+🎯 Additional Experience 🎯
+-
+| Date | Organization | Program | Description
+|:---:|:---:|:---:|:---:|
+
 
 &nbsp;&nbsp;
 
