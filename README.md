@@ -13,7 +13,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 &nbsp;&nbsp;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonTaeJunDS&show_icons=true&theme=radical&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonTaeJunDS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonTaeJunDS&show_icons=true&theme=radical&count_private=true&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/?username=KwonTaeJunDS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktjmamamoo&theme=dark)](https://solved.ac/ktjmamamoo) 
 
 ✨ Profile ✨
