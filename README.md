@@ -98,6 +98,25 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 2023 | 상공회의소 한자 3급 | 대한상공회의소 |
 2023 | 데이터분석 준전문가(ADsP) | 한국데이터산업진흥원 |
 
+&nbsp;&nbsp;
+
+📜 Paper Review 📜
+-
+
+&nbsp;&nbsp;
+
+👩‍💻 Project 👩‍💻
+-
+<details> 
+<summary>Project List </summary>
+  
+| Date | Administration |	Project	| Tags |	Achievement |	Link
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+</details>
+
+
+
 
 
 
