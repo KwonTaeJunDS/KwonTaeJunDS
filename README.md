@@ -115,8 +115,17 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 </details>
 
+&nbsp;&nbsp;
 
+📚 Study 📚
+-
+<details> 
+<summary> Study </summary>
 
+| Date | Content | Tags |	Study Method | Link
+|:---:|:---:|:---:|:---:|:---:|
+
+</details>
 
 
 
