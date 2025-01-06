@@ -127,7 +127,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 <details> 
 <summary>Project List </summary>
   
-| Date | Administration |	Project	| Tags |	Achievement |	Link
+| Date | Institution |	Project	| Tags |	Achievement |	Link
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 </details>
