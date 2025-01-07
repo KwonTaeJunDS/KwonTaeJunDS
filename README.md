@@ -139,7 +139,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2024.12 - | [ITCOBOT Inc.] 프로젝트 |	Experimental Validation of Robot Arm Contact Type and Location Classification | ML, DL, Classification | 진행 중 | Link
 | 2024.10 - | [개인] 프로젝트 |	Young's Modulus-Driven Optimization in Elastic Simulations | ML, DL, Simulation  | 진행 중 |	Link
-| 2024.09 - 2024.11 | [ICT 챌린지 2024 공모전] | Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | ML, Abnormal Detection  | 논문 게재 |	Link
+| 2024.09 - 2024.11 | [ICT 챌린지 2024] <br> 공모전 | Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | ML, Abnormal Detection  | 논문 게재 |	Link
 | 2024.04 - 2024.11 | [나노영챌린지 2024] 공모전 | Enhancing Firefighter Suits Using ZnO Coating and CNT Aerogel Fibers for High Heat Resistance, Lightweight, and Antibacterial Properties | Statistics, Fiber, Nano | 우수상 | Link
 | 2024.08 - 2024.09 | [DACON] 공모전 | 2024 Samsung AI Challenge : Black-box Optimization | ML, DL, Optimization | Top 20% | Link
 | 2024.07 - 2024.08 | [햅틱스 학회] 현대자동차 햅틱스 아이디어 경진대회 | Haptic Discriminator-Based Driver and Front Passenger Classificatin on Algorithm | ML, Classification, Haptic | 최고인기상 | [Link] |
