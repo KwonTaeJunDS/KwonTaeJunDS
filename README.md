@@ -137,11 +137,19 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
   
 | Date | Institution |	Project	| Tags |	Achievement |	Link
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024.12 - | ITCOBOT Inc. 프로젝트 |	Experimental Validation of Robot Arm Contact Type and Location Classification | ML, DL, Classification | 진행 중 | Link 
-| 2024.10 - | [개인] 프로젝트 |	Young's Modulus-Driven Optimization in Elastic Simulations	| ML, DL, Simulation  | 진행 중 |	Link
-| 2024.09 - 2024.11 | 대학ICT연구센터 |	Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | ML, Abnormal Detection  | 논문 게재 |	Link
-| 2024.04 - 2024.11 | 나노기술연구협의회 | Enhancing Firefighter Suits Using ZnO Coating and CNT Aerogel Fibers for High Heat Resistance, Lightweight, and Antibacterial Properties | Statistics, Fiber, Nano | 우수상 | Link
-| 2024.08 - 2024.09 | DACON | 2024 Samsung AI Challenge : Black-box Optimization | ML, DL, Optimization | Top 20% | Link
+| 2024.12 - | [ITCOBOT Inc.] 프로젝트 |	Experimental Validation of Robot Arm Contact Type and Location Classification | ML, DL, Classification | 진행 중 | Link
+| 2024.10 - | [개인] 프로젝트 |	Young's Modulus-Driven Optimization in Elastic Simulations | ML, DL, Simulation  | 진행 중 |	Link
+| 2024.09 - 2024.11 | [ICT 챌린지 2024 공모전] | Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | ML, Abnormal Detection  | 논문 게재 |	Link
+| 2024.04 - 2024.11 | [나노영챌린지 2024] 공모전 | Enhancing Firefighter Suits Using ZnO Coating and CNT Aerogel Fibers for High Heat Resistance, Lightweight, and Antibacterial Properties | Statistics, Fiber, Nano | 우수상 | Link
+| 2024.08 - 2024.09 | [DACON] 공모전 | 2024 Samsung AI Challenge : Black-box Optimization | ML, DL, Optimization | Top 20% | Link
+| 2024.07 - 2024.08 | [햅틱스 학회] 현대자동차 햅틱스 아이디어 경진대회 | Haptic Discriminator-Based Driver and Front Passenger Classificatin on Algorithm | ML, Classification, Haptic | 최고인기상 | [Link] |
+| 2024.05 - 2024.07 | [산업통상자원부] 공공데이터 활용 아이디어 공모전 | Lithium Mineral Price Prediction Using LSTM and Key Periodic Factors Influencing Price Fluctuations | DL, Time Series | 참가 | [Link] |
+| 2024.04 - 2024.05 | [광진구] 빅데이터 분석 공모전 | AI Development for Flood Risk Prediction and Response | ML, Time Series | 참가 | [Link] |
+| 2023.08 - 2023.09 | [포스코 AI, BigData 아카데미] 프로젝트 | Interactive Voice Recognition Kiosk for the Elderly | CV, NLP | 우수상 | [Link] |
+| 2023.07 - 2023.08 | [포스코 AI, BigData 아카데미] 프로젝트 | Reducing Defects in Secondary Batteries for Passenger Cars Through Optimization of the Formation Process | ML, Classification, Data Analystics | 우수상 | [Link] |
+| 2023.07 | [개인] 프로젝트 | Analysis of Scale-Inducing Factors in Thick Plate Processing and Development of Improvement Strategies | ML, Data Analystics | - | [Link] |
+| 2023.07 | [개인] 프로젝트 | Grade processing program developed in python | Algorithsm | - | [Link] |
+| 2022.03 - 2022.12 | [학부] 졸업 프로젝트 | Fabrication of PDMS-Based Microfluidic Chip and Identification of Photolithography Process Factors | Statistics, Data Analystics, Semiconductor | A+ | [Link] |
 
 </details>
 
