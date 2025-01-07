@@ -148,7 +148,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 | 2023.08 - 2023.09 | [포스코 AI, BigData 아카데미] 프로젝트 | Interactive Voice Recognition Kiosk for the Elderly | CV, NLP | 우수상 | [Link] |
 | 2023.07 - 2023.08 | [포스코 AI, BigData 아카데미] 프로젝트 | Reducing Defects in Secondary Batteries for Passenger Cars Through Optimization of the Formation Process | ML, Classification, Data Analystics | 우수상 | [Link] |
 | 2023.07 | [개인] 프로젝트 | Analysis of Scale-Inducing Factors in Thick Plate Processing and Development of Improvement Strategies | ML, Data Analystics | - | [Link] |
-| 2023.07 | [개인] 프로젝트 | Grade processing program developed in python | Algorithsm | - | [Link] |
+| 2023.07 | [개인] 프로젝트 | Grade processing program developed in python | Algorithm | - | [Link] |
 | 2022.03 - 2022.12 | [학부] 졸업 프로젝트 | Fabrication of PDMS-Based Microfluidic Chip and Identification of Photolithography Process Factors | Statistics, Data Analystics, Semiconductor | A+ | [Link] |
 
 </details>
