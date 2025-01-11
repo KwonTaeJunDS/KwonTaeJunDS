@@ -128,6 +128,8 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 📜 Paper Review 📜
 -
+[Paper Review](https://www.notion.so/178bbf5254e3805ab2d7c48a8ae8fe8e?v=d5158ccff4464223936ef7390954b5ba&pvs=4)
+
 
 &nbsp;&nbsp;
 
