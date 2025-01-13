@@ -21,7 +21,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 ✨ Profile ✨
 -
 <!-- Naver Blog -->
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ktjktj0629) [![Tech Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KwonTaeJunDS) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/TaeJun-Kwon-s-Portfolio-23db1df183c74359a65255e7b1421131?pvs=4) 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@ktjktj0629) [![Tech Blog](https://img.shields.io/badge/Tech_Blog-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KwonTaeJunDS) [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://nifty-sesame-9e7.notion.site/TaeJun-Kwon-s-Portfolio-23db1df183c74359a65255e7b1421131?pvs=4) 
 
 
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat-square&logo=naver&logoColor=white)](https://blog.naver.com/kwon_tae_jun) [![instagram](https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jjuunn_ttkk/)
@@ -128,7 +128,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 
 📜 Paper Review 📜
 -
-[Paper Review](https://www.notion.so/178bbf5254e3805ab2d7c48a8ae8fe8e?v=d5158ccff4464223936ef7390954b5ba&pvs=4)
+[Paper Review](https://nifty-sesame-9e7.notion.site/178bbf5254e3805ab2d7c48a8ae8fe8e?v=d5158ccff4464223936ef7390954b5ba&pvs=4)
 
 
 &nbsp;&nbsp;
