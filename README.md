@@ -152,7 +152,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 | 2023.07 - 2023.08 | [포스코 AI, BigData 아카데미] <br> 프로젝트 | Reducing Defects in Secondary Batteries <br> for Passenger Cars Through Optimization of the Formation Process | ML, Classification, Data Analystics | 우수상 | [Link] |
 | 2023.07 | [개인] 프로젝트 | Analysis of Scale-Inducing Factors <br> in Thick Plate Processing and Development of Improvement Strategies | ML, Data Analystics | - | [Link] |
 | 2023.07 | [개인] 프로젝트 | Grade processing program developed <br> in python | Algorithm | - | [Link] |
-| 2022.03 - 2022.12 | [학부] <br> 졸업 프로젝트 | Fabrication of PDMS-Based Microfluidic Chip <br> and Identification of Photolithography Process Factors | Statistics, Data Analystics, Semiconductor | A+ | [Link](https://github.com/KwonTaeJunDS/projects/tree/5de324f1ffced3dbf532d8764e8801e7b481c55c/%EB%AF%B8%EC%84%B8%EC%9C%A0%EC%B2%B4%EC%B9%A9%EC%A0%9C%EC%9E%91%20%EB%B0%8F%20%ED%8F%AC%ED%86%A0%20%EA%B3%B5%EC%A0%95%20%EC%A3%BC%EC%9A%94%20%EC%9D%B8%EC%9E%90%20%EB%8F%84%EC%B6%9C) |
+| 2022.03 - 2022.12 | [학부] <br> 졸업 프로젝트 | Fabrication of PDMS-Based Microfluidic Chip <br> and Identification of Photolithography Process Factors | Statistics, Data Analystics, Semiconductor | A+ | [Link](https://github.com/KwonTaeJunDS/projects/tree/main/%EB%AF%B8%EC%84%B8%EC%9C%A0%EC%B2%B4%EC%B9%A9%EC%A0%9C%EC%9E%91%20%EB%B0%8F%20%ED%8F%AC%ED%86%A0%20%EA%B3%B5%EC%A0%95%20%EC%A3%BC%EC%9A%94%20%EC%9D%B8%EC%9E%90%20%EB%8F%84%EC%B6%9C) |
 
 </details>
 
