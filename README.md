@@ -97,7 +97,7 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
 |2024.12 - | Experimental Validation of Robot Arm Contact Type and Location Classification | 연구 중 | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
 |2024.09 - | Young's Modulus-Driven Optimization in Elastic Simulations | 연구 중 | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
 |2024.07 - | Haptic Discriminator-Based Driver and Front Passenger Classificatin on Algorithm | 연구 중 | [Link](https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program) |
-|2024.07 - 2024.11 | Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | 논문 게재 | [Link]([https://pastconf.kics.or.kr/2024f/presentation/pdf/oral/0529-UAHJK?from=program](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12034779)) |
+|2024.07 - 2024.11 | Personalization of Touch Sensitivity in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | 논문 게재 | [Link](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12034779) |
 
 &nbsp;&nbsp;
 
