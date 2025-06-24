@@ -140,8 +140,8 @@ I'm interested in **Deep Learning**, and **Computer Vision**.
   
 | Date | Institution |	Project	| Tags |	Achievement |	Link
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 2024.12 - | [ITCOBOT Inc.] <br> 프로젝트 |	Experimental Validation of Robot Arm Contact Type <br> and Location Classification | ML, DL, Classification | 진행 중 | [Link]
-| 2024.10 - | [개인] 프로젝트 |	Young's Modulus-Driven Optimization <br> in Elastic Simulations | ML, DL, Simulation  | 진행 중 |	[Link]
+| 2024.12 - | [ITCOBOT Inc.] <br> 프로젝트 |	Experimental Validation of Robot Arm Contact Type <br> and Location Classification | ML, DL, Classification | 논문 투고 | [Link]
+| 2024.10 - | [개인] 프로젝트 |	Young's Modulus-Driven Optimization <br> in Elastic Simulations | ML, DL, Simulation  | 논문 게재 |	[Link]
 | 2024.10 - |[DACON] 대회 |	Electric Vehicle Price Prediction <br> Hackathon | ML, Data Analystics  | Top 25% |	[Link]
 | 2024.09 - 2024.11 | [ICT 챌린지 2024] <br> 공모전 | Personalization of Touch Sensitivity <br> in Automotive Touch Panels and Detection Methods for Accidental Touches in Unintended Situations | ML, Abnormal Detection  | 논문 게재 |	Link
 | 2024.04 - 2024.11 | [나노영챌린지 2024] <br> 공모전 | Enhancing Firefighter Suits Using ZnO Coating <br> and CNT Aerogel Fibers for High Heat Resistance, Lightweight, and Antibacterial Properties | Statistics, Fiber, Nano | 우수상 | Link
